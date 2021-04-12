@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFF</color>
+    <color name = "gold">#FFD700</color>
+    <color name = "green">#00D32E</color>
+    <color name = "red">#FA2F0B</color>
+    <color name = "brown">#D4A34E</color>
+    <color name="unfocusedGold">#806C00</color>
+    <color name = "unfocusedGreen">#00801C</color>
+    <color name = "unfocusedRED">#801705</color>
+    <color name = "unfocusedbrown">#614B24</color>
+    <color name="colorTransparent">#03000000</color>
+
+</resources>

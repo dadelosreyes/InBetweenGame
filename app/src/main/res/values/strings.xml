@@ -1,0 +1,19 @@
+<resources>
+    <item name="ewan" type="font">@font/bernard_mt_condensed</item>
+    <string name="app_name">InbetweenGame</string>
+    <string name="title">IN-BETWEEN GAME</string>
+    <string name="btnStart">START GAME</string>
+    <string name="reveal">SHOW</string>
+    <string name="bet">BET</string>
+    <string name="fold">FOLD</string>
+    <string name="pocket">POCKET MONEY:</string>
+    <string name="winnings">WINNINGS:</string>
+    <string name="description1">picture</string>
+    <string name="Higher">Higher</string>
+    <string name="Lower">Lower</string>
+    <string name="bet_value">0</string>
+    <string name="set_bet">Set Bet</string>
+    <string name="clear">Clear</string>
+    <string name="set_your_bet">Set your bet</string>
+    <string name="pocket_value">0</string>
+</resources>
